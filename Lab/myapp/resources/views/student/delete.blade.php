@@ -1,0 +1,1 @@
+<h1>Student delete</h1>
